@@ -189,4 +189,11 @@ $(document).ready(function(){
 
 });	
 
+
+            function scrolldiv(id) { 
+                var elem = document.getElementById(id); 
+                elem.scrollIntoView(); 
+            } 
+
+
 	
